@@ -19,7 +19,7 @@ This app can be used for different types of UAVs like **VTOL, Fixedwings, Multir
 
 | Login Screen | Dashboard |
 |--------------|-----------|
-| ![Google Spreadsheet Connect](checklist application screenshots/Select Google Account & Spreadsheet Link.jpeg) | ![Dashboard](checklist application screenshots/Dashboard.jpeg) |
+| ![Select Google](checklist_screenshots/select_google_account.jpeg) | ![Dashboard](checklist_screenshots/dashboard.jpeg) |
 
 ## 📂 Code Access
 🔒 Source code is private for IP protection.  
