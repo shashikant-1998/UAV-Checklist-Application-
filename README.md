@@ -37,9 +37,6 @@ This app can be used for different types of UAVs like **VTOL, Fixedwings, Multir
 |--------------|-----------|
 | ![Battery Main Page](checklist_screenshots/battery_data_mainpage.jpeg) | ![Battery ID Scan](checklist_screenshots/battery_id_scan.jpeg) |
 
-| Battery Data Entry |  |
-|--------------|-----------|
-| ![Battery Data Entry](checklist_screenshots/battery_data_entry.jpeg) | |
 
 ## 📂 Code Access
 🔒 Source code is private for IP protection.  
